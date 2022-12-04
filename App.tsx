@@ -41,7 +41,5 @@ export default function App() {
         <Tab.Screen name="Camera" component={Cam} />
       </Tab.Navigator>
     </NavigationContainer>
-
-
   );
 }
